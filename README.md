@@ -1,2 +1,2 @@
 # minimo
-https://emamulhassan.github.io/minimo/
+https://abirhossain9.github.io/minimo/
